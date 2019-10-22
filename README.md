@@ -11,7 +11,7 @@ Applied Data Science Program Portfolio
 ## Portfolio Documents
 1. Documents
     - JihyeJessicaKwon_Resume.docx
-    - Kwon_Portfolio.docx
+    - [Kwon_Portfolio.docx](Jessica_Kwon_Word.docx)
     - Kwon_Portfolio_PPT.pptx
   
 2. Project List
